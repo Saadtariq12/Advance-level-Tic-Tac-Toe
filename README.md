@@ -4,3 +4,4 @@ Unique Game Rules:
 Global vs. Local: Winning a small 3x3 grid places your mark (X or O) on the corresponding large square.
 The "Redirect" Mechanic: The specific small square you pick determines which large square your opponent must play in next.
 Strategic Blocking: If a player is sent to a large square that is already won or full, they may be granted a "free move" to any open square on the entire board.
+<img width="1510" height="895" alt="image" src="https://github.com/user-attachments/assets/5b2c2066-aa3e-468d-be8c-bff451b97c73" />
